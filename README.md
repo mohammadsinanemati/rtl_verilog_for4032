@@ -1,1 +1,1 @@
-verilog desighn
+verilog designing
