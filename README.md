@@ -21,6 +21,8 @@ Course Topics:
 # synthes the madar
 ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-04%20233723.png?raw=true)
 
+![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-05%20000158.png?raw=true)
+
 
  baraye har statement niyaz darim ke tarif zir ro anjam bedim 
  ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-04%20234049.png?raw=true)
