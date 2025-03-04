@@ -30,3 +30,5 @@ Course Topics:
  # tarahi component haye motafavet mesl adder multiplier va... va hamchenin jam kardan hame inha mitavan filter haye motafavet tarif kard
  
  ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-04%20234557.png?raw=true)
+
+ ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-05%20000158.png?raw=true)
