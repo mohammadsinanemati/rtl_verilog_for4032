@@ -2,7 +2,7 @@ verilog designing
 ![verillog](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-03%20182241.png?raw=true)
 
 
-#today 
+
 ![verillog](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-03%20182420.png?raw=true)
 
 #Course Title: Digital Design with Verilog (Verilog HDL)
@@ -18,3 +18,5 @@ Course Topics:
 🔹 Modular design and hierarchical concepts in Verilog
 ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-04%20233116.png?raw=true)
 # yek madari manand adder tarahi mikonim
+#synthes the madar
+![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-04%20233723.png?raw=true)
