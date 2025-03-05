@@ -38,5 +38,8 @@ Course Topics:
 
   # har module daraye yek seri input out put va state ment hastesh
   ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-05%20000830.png?raw=true)
-  
+
+
+  # har code verilog mitone gate level , experetion level , rtl level bashe:
+  ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-05%20000846.png?raw=true)
  
