@@ -47,6 +47,6 @@ Course Topics:
   ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-05%20084333.png?raw=true)
 
   3 for ex
-  ![]()
+  ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-05%20084652.png?raw=true)
   
  
