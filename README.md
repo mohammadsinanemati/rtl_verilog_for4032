@@ -32,3 +32,7 @@ Course Topics:
  ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-04%20234557.png?raw=true)
 
  ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-05%20000158.png?raw=true)
+
+ # har sakhtar va componenti  dar verilog az module sakhte mishavad
+ ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-05%20000715.png?raw=true)
+ 
