@@ -53,3 +53,7 @@ Course Topics:
   coding ...:
 
   ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-05%20120234.png?raw=true)
+
+
+  write test beanch:
+  ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-05%20125811.png?raw=true)
