@@ -42,4 +42,8 @@ Course Topics:
 
   # har code verilog mitone gate level , experssion  level , behavior  level bashe:
   ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-05%20000846.png?raw=true)
+
+  # tozih barkhi az gate ha 
+  ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-05%20084333.png?raw=true)
+  
  
