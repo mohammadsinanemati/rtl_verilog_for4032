@@ -65,4 +65,7 @@ Course Topics:
 
 
 
-reg for 
+reg  RO BARAYE NEVESHTAN FOR MINEVISIM
+
+# TEST BEANCH
+![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-12%20155248.png?raw=true)
