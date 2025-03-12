@@ -127,3 +127,6 @@ KHOROJI CODE :
 
 ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-12%20155854.png?raw=true)
 
+another ex):
+
+![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-12%20160400.png?raw=true)
