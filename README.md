@@ -144,18 +144,5 @@ another ex):
 
 
 
-
-
-photo-collection/
-└── images/
-    ├── pic1.jpg
-    ├── pic2.jpg
-    └── ...
-cd path/to/photo-collection
-git init
-git remote add origin https://github.com/mohammadsinanemati/photo-collection.git
-git branch -M main
-git add .
-git commit -m "Add 40 images"
-git push -u origin main
+![Screenshot 2025-04-18 235227](https://github.com/user-attachments/assets/63163971-6412-4fe3-9e0b-e2086472f08b)
 
