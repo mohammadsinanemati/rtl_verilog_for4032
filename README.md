@@ -132,9 +132,30 @@ another ex):
 ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-12%20160400.png?raw=true)
 
 
+
+
 ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-12%20160405.png?raw=true)
 
 # test beanch
 ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-12%20160800.png?raw=true)
 
 ![](https://github.com/mohammadsinanemati/rtl_verilog_for4032/blob/main/Screenshot%202025-03-12%20161028.png?raw=true)
+
+
+
+
+
+
+photo-collection/
+└── images/
+    ├── pic1.jpg
+    ├── pic2.jpg
+    └── ...
+cd path/to/photo-collection
+git init
+git remote add origin https://github.com/mohammadsinanemati/photo-collection.git
+git branch -M main
+git add .
+git commit -m "Add 40 images"
+git push -u origin main
+
